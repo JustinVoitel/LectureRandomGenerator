@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Responses
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Responses\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=Response
+comment1.target=Responses(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getResponse()
+numComments=3
